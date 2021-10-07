@@ -24,7 +24,7 @@ public class Fibonacci {
 			
 		}
 	//line added by Karthick to test merge - this should get preference
-System.out.println("Added by Karthick");		
+System.out.println("Added by Karthick as new manager");		
 
 	}
 
