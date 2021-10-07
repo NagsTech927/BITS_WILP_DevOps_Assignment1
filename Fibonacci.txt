@@ -23,8 +23,10 @@ public class Fibonacci {
 			  n2 = n3; 
 			
 		}
-			
+	//line added by Karthick to test merge - this should get preference
+System.out.println("Added by Karthick");		
 
 	}
 
 }
+
