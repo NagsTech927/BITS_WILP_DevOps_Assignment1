@@ -24,12 +24,12 @@ public class Fibonacci {
 			
 		}
 	//line added by Karthick to test merge - this should get preference
-System.out.println("Added by Karthick");		
+System.out.println("Added by Karthick as new manager");		
 
 	}
 
 //adding this statement to test merge by Nagen...2nd Check
-system.out.println("Nagendra is the new PM") 
+// Karthick removing this line....system.out.println("Nagendra is the new PM") 
 
 }
 
