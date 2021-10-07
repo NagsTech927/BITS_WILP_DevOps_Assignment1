@@ -23,8 +23,15 @@ public class Fibonacci {
 			  n2 = n3; 
 			
 		}
-			
+	//line added by Karthick to test merge - this should get preference
+
+// New manager Nagen removing this line...System.out.println("Added by Karthick");		
+
 
 	}
 
+//adding this statement to test merge by Nagen...2nd Check
+// Karthick removing this line....system.out.println("Nagendra is the new PM") 
+
 }
+
