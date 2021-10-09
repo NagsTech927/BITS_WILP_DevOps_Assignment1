@@ -6,7 +6,4 @@ class Example
         
 	System.out.println("Hello GITs, I am from BITs"); 
     } 
-
-    System.out.println("making a minor update to try GIT force push;
-
 }
